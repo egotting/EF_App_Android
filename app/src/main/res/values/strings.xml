@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EF</string>
+    <string name="titulo_sobre_nos">O que é EF?</string>
+    <string name="sobre_nos">EF é a abreviação de "Emprego Fácil",
+                            e foi criado no intuito
+                            de ajudar pessoas que não tem consciência
+                            que é possivel arrumar empregos da sua área, economizando tempo
+                            e menos cansativo.
+                                O obejtivo da EF é ajudar e ser bem pratico e simples.</string>
+
+    <string name="como_usar">Como usar o EF?</string>
+    <string name="text_como_usar">Assim que você passar essa aba, vai aparecer uma parte
+                                pra selecionar qual é a sua área atual, depois aperte no botão "Gerar". </string>
+
+    <string name="select">Selecione</string>
+</resources>
