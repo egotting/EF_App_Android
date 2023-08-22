@@ -25,7 +25,7 @@
       android:layout_width="209dp"
       android:layout_height="111dp"
       android:fontFamily="@font/coiny"
-      android:text="Ache ágora o emprego que você tanto deseja!"
+      android:text="Ache agora o emprego que você tanto deseja!"
       android:textSize="16dp"
       app:layout_constraintBottom_toTopOf="@+id/textInputLayout"
       app:layout_constraintEnd_toEndOf="parent"
