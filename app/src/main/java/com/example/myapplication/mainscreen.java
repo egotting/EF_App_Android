@@ -32,7 +32,7 @@ public class mainscreen extends AppCompatActivity {
 
         itemToUrlMap.put("Nenhum", "");
         itemToUrlMap.put("Pedreiro", "https://br.indeed.com/jobs?q=Pedreiro&l=nova+igua%C3%A7u%2C+rj&vjk=f25dac1a0b44aa7a");
-            itemToUrlMap.put("Jovem Aprendiz", "https://br.indeed.com/jobs?q=Jovem+aprendiz&l=nova+igua%C3%A7u%2C+rj&vjk=b1eccbf30cf3ef03");
+        itemToUrlMap.put("Jovem Aprendiz", "https://br.indeed.com/jobs?q=Jovem+aprendiz&l=nova+igua%C3%A7u%2C+rj&vjk=b1eccbf30cf3ef03");
         itemToUrlMap.put("Atendente", "https://br.indeed.com/q-atendente-l-nova-igua%C3%A7u,-rj-vagas.html?vjk=155a43a7b593eb46");
         // Adicione outros conforme necessário
     }
