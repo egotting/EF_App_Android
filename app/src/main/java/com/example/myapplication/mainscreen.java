@@ -24,7 +24,7 @@ import java.util.Map;
 
 public class mainscreen extends AppCompatActivity {
 
-    String[] item = {"Nenhum","Pedreiro","Jovem Aprendiz","Atendente"};
+    String[] item = {"Nenhum","Pedreiro","Jovem Aprendiz","Atendente", "Professor", ""};
     private HashMap<String, String> itemToUrlMap = new HashMap<>();
 
     // Na sua função onCreate ou init:
@@ -34,6 +34,8 @@ public class mainscreen extends AppCompatActivity {
         itemToUrlMap.put("Pedreiro", "https://br.indeed.com/jobs?q=Pedreiro&l=nova+igua%C3%A7u%2C+rj&vjk=f25dac1a0b44aa7a");
         itemToUrlMap.put("Jovem Aprendiz", "https://br.indeed.com/jobs?q=Jovem+aprendiz&l=nova+igua%C3%A7u%2C+rj&vjk=b1eccbf30cf3ef03");
         itemToUrlMap.put("Atendente", "https://br.indeed.com/q-atendente-l-nova-igua%C3%A7u,-rj-vagas.html?vjk=155a43a7b593eb46");
+        itemToUrlMap.put("Professor", "https://br.indeed.com/jobs?q=professor+ensino+medio&l=Nova+Igua%C3%A7u%2C+RJ&vjk=28190a3cbd64462c");
+        itemToUrlMap.put("Auxiliar Serviços Gerais", "https://br.indeed.com/jobs?q=Auxiliar+Servi%C3%A7os+Gerais&l=Nova+Igua%C3%A7u%2C+RJ&vjk=5b48fd29144094cf");
         // Adicione outros conforme necessário
     }
 
