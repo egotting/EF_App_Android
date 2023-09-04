@@ -4,7 +4,7 @@
 
 ## 💬 Descrição do projeto 
 <p align="justify">
-   EF é uma aplicativo criado motivos escolares com o proposito de ajudar pessoas com a falta de empregabilidade.
+   EF é uma aplicativo criado motivos escolares com o propósito de ajudar as pessoas com a falta de empregabilidade.
 </p>
 
 # 📱: Características do projeto
