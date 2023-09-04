@@ -5,6 +5,8 @@
 
     <string name="como_usar">Como usar o EF?</string>
     <string name="text_como_usar">Assim que você avançar para esta etapa, uma seção será exibida para que você selecione a sua área atual. Em seguida, pressione o botão "Gerar". </string>
+    <string name="selectSite">Selecione o site</string>
+    <string name="selectJob">Selecione o seu trabalho</string>
 
-    <string name="select">Selecione</string>
+
 </resources>

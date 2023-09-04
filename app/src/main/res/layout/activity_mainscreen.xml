@@ -54,7 +54,7 @@
         android:id="@+id/auto_complete_text"
         android:layout_width="273dp"
         android:layout_height="wrap_content"
-        android:hint="@string/select"
+        android:hint="@string/selectJob"
         android:inputType="none"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -80,7 +80,7 @@
         android:id="@+id/auto_complete_text2"
         android:layout_width="273dp"
         android:layout_height="wrap_content"
-        android:hint="@string/select"
+        android:hint="@string/selectSite"
         android:inputType="none" />
   </com.google.android.material.textfield.TextInputLayout>
 
